@@ -1,4 +1,4 @@
-# Python-Project_youtube_dislikes
+# Python-Project_Youtube_EDA
 This is data   analyst  portfolio project 
 
 Exploratory Data Analysis on YouTube data.
